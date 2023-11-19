@@ -1,0 +1,71 @@
+;---------------------------------------------------------------------
+[Characters]
+randomselect
+;---------------------------------------------------------------------
+[ExtraStages]
+stages\Brotherhood of the Silent Sorrow.def
+stages\cellgamesday.def
+stages\Ex_Akai_Tsuki_Night(1.1).def
+stages\Fate Stay Night.def
+stages\Ghost Ship Cove_DrCwn.def
+stages\GUNNM ZALEM.def
+stages\Hell.def
+stages\Kanto.def
+stages\Lost Station.def
+stages\Mountainpath.def
+stages\OilFieldVP.def
+stages\Orochimarus_Hideout.def
+stages\Rooftop.def
+stages\Sasuke vs Danzou.def
+stages\Sendai City.def
+stages\spaceship.def
+stages\Templo.def
+stages\Underground Lake.def
+stages\undertale-Waterfall NEW.def
+stages\Silbern.def
+stages\AP_Apple_Place.def
+stages\Konoha Destruida 1.def
+stages\Obito's_Dimension_Kamui.def
+stages\Soul Society.def
+stages\the_konoha_village_stage.def
+stages\uchiha_hideout.def
+stages\Esdeath Barrier.def
+stages\Jiraiya vs Pain.def
+stages\Cairo Streets.def
+stages\CHAOS_CODE-VeinStage.def
+stages\Ex_Ororahana_Field.def
+stages\GGStrive - Lars Canyon.def
+stages\glacier.def
+stages\ILU-IllusionPalace.def
+stages\Konoha Destroyed.def
+stages\Koroukan.def
+stages\Library_of_the_Seers.def
+stages\Market.def
+stages\Namek.def
+stages\Fake Karakura city.def
+stages\Tesouro_do_Ceu.def
+stages\Amegakure 1.0.def
+stages\village.def
+stages\Wall.def
+stages\westcity.def
+
+stages\Amegakure.def
+stages\Bamboo_Forest.def
+stages\DBCV_Fantasy_ruins.def
+stages\DBCV_Matsumoto_Castle_[WS].def
+stages\GGStrive - Seventh Heaven District.def
+stages\Hakurei_Shrine.def
+stages\Hell Entrance.def
+stages\Hidden Sand Night.def
+stages\Island.def
+stages\JUBILEE.def
+stages\MBTL_Moonlit_Altar_TWS.def
+stages\Mirroworld.def
+stages\onigashima-inside.def
+stages\PurpleSkylineVP.def
+stages\VP_Final_EX_1.1.def
+;---------------------------------------------------------------------
+[Options]
+
+arcade.maxmatches = 10,2,2,1
+team.maxmatches = 7,2,2,1
